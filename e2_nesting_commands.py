@@ -33,4 +33,5 @@ def dropdb():
 
 
 if __name__ == "__main__":
-    cli()
+    # cli()
+    print(initdb())
